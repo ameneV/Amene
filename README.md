@@ -1,3 +1,5 @@
+This is a python implementation Of Maximum Local Variation-based Unsharp Masking technique for image enhancement. It done in google colab.
+
 Maximum Local Variation-based Unsharp Masking (MLVUM) is an image enhancement technique that aims to increase the local contrast and sharpness of an image. 
 It does this by identifying areas with low local variation, which are likely to appear blurry, and then enhancing those areas to make them appear sharper. 
 The MLVUM algorithm works as follows: Calculate the local variation for each pixel in the image using a predefined neighborhood size.
