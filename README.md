@@ -7,4 +7,4 @@ Identify the pixels with low local variation, indicating areas that are likely b
 sharpening them and increasing local contrast. Combine the sharpened areas with the original image to produce the enhanced image.
 
 In this implementation, we use the Laplacian operator to calculate the local variation, and then apply an unsharp mask using the GaussianBlur and addWeighted functions.
-Finally, we combine the sharpened areas with the original image to produce the enhanced image.
+Finally, we combine the sharpened areas with the original image to produce the enhanced image. 
